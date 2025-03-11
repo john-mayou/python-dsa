@@ -1,0 +1,1 @@
+# f(x) = x, since both sides of the equation will have the same value.
