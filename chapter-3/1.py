@@ -1,0 +1,1 @@
+# 2^n dominates 8n, 4n*log(n), 2n^2, n^3 using a logarithmic scale for x- and y-axes.
